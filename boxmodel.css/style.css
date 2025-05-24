@@ -1,0 +1,62 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: cursive;
+}
+
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+ 
+}
+
+div{
+  display: inline-block;
+  height: 300px;
+  width: 200px;
+  background-image: url(download.jfif);
+  padding: 10px;
+  border: 10px;
+  outline: 5px; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 10px;
+  border: 5px solid white;
+}
+  .div2{
+  background-image: url(6.jfif);
+
+}
+.div3{
+  background-image: url(5.jfif);
+
+}
+.div4{
+  background-image: url(4.jfif);
+
+}
+.div5{
+  background-image: url(3.jfif);
+
+}
+
+.ghibli{
+  margin: 10px;
+}
+.gh1{
+  background-image: url(g1.jfif);
+}
+.gh2{
+  background-image: url(g2.jfif);
+}
+.gh3{
+  background-image: url(g3.jfif);
+}
+.gh4{
+  background-image: url(g4.jfif);
+}
+.gh5{
+  background-image: url(g5.jfif);
+}
